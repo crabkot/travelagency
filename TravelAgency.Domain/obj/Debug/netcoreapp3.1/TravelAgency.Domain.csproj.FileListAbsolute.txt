@@ -1,0 +1,12 @@
+D:\My Projects\TravelAgency\TravelAgency.Domain\bin\Debug\netcoreapp3.1\TravelAgency.Domain.deps.json
+D:\My Projects\TravelAgency\TravelAgency.Domain\bin\Debug\netcoreapp3.1\TravelAgency.Domain.runtimeconfig.json
+D:\My Projects\TravelAgency\TravelAgency.Domain\bin\Debug\netcoreapp3.1\TravelAgency.Domain.runtimeconfig.dev.json
+D:\My Projects\TravelAgency\TravelAgency.Domain\bin\Debug\netcoreapp3.1\TravelAgency.Domain.dll
+D:\My Projects\TravelAgency\TravelAgency.Domain\bin\Debug\netcoreapp3.1\TravelAgency.Domain.pdb
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.csprojAssemblyReference.cache
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.AssemblyInfoInputs.cache
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.AssemblyInfo.cs
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.csproj.CoreCompileInputs.cache
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.dll
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.pdb
+D:\My Projects\TravelAgency\TravelAgency.Domain\obj\Debug\netcoreapp3.1\TravelAgency.Domain.genruntimeconfig.cache

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<AgencyViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <Name>First Agency</Name>
+  <Email>first@gmail.com</Email>
+  <Country>EU</Country>
+  <IsBranch>true</IsBranch>
+  <TravelAgents>
+    <TravelAgent>
+      <Id>12</Id>
+      <Name>Anton</Name>
+      <Email>crabkot@gmail.com</Email>
+      <AgencyId>2</AgencyId>
+    </TravelAgent>
+  </TravelAgents>
+</AgencyViewModel><?xml version="1.0"?>
+<AgencyViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <Name>First Agency</Name>
+  <Email>first@gmail.com</Email>
+  <Country>EU</Country>
+  <IsBranch>true</IsBranch>
+  <TravelAgents>
+    <TravelAgent>
+      <Id>12</Id>
+      <Name>Anton</Name>
+      <Email>crabkot@gmail.com</Email>
+      <AgencyId>2</AgencyId>
+    </TravelAgent>
+  </TravelAgents>
+</AgencyViewModel><?xml version="1.0"?>
+<AgencyViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <Name>First Agency</Name>
+  <Email>first@gmail.com</Email>
+  <Country>EU</Country>
+  <IsBranch>true</IsBranch>
+  <TravelAgents>
+    <TravelAgent>
+      <Id>12</Id>
+      <Name>Anton</Name>
+      <Email>crabkot@gmail.com</Email>
+      <AgencyId>2</AgencyId>
+    </TravelAgent>
+  </TravelAgents>
+</AgencyViewModel>

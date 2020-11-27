@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfAgencyViewModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AgencyViewModel>
+    <Id>1</Id>
+    <Name>First Agency</Name>
+    <Email>first@gmail.com</Email>
+    <Country>EU</Country>
+    <IsBranch>true</IsBranch>
+    <TravelAgents>
+      <TravelAgent>
+        <Id>12</Id>
+        <Name>Anton</Name>
+        <Email>crabkot@gmail.com</Email>
+        <AgencyId>2</AgencyId>
+      </TravelAgent>
+    </TravelAgents>
+  </AgencyViewModel>
+  <AgencyViewModel>
+    <Id>2</Id>
+    <Name>Second Angency</Name>
+    <Email>second@gmai.com</Email>
+    <Country>USA</Country>
+    <IsBranch>false</IsBranch>
+    <TravelAgents>
+      <TravelAgent>
+        <Id>12</Id>
+        <Name>Anton</Name>
+        <Email>crabkot@gmail.com</Email>
+        <AgencyId>2</AgencyId>
+      </TravelAgent>
+    </TravelAgents>
+  </AgencyViewModel>
+</ArrayOfAgencyViewModel>
